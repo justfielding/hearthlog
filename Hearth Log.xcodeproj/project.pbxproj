@@ -334,6 +334,11 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Hearth Log/Hearth Log-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"/usr/local/Cellar/wxmac/3.0.0.0/include/wx-3.0",
+				);
 				INFOPLIST_FILE = "Hearth Log/Hearth Log-Info.plist";
 				OTHER_CFLAGS = (
 					"-I/usr/local/Cellar/wxmac/3.0.0.0/lib/wx/include/osx_cocoa-unicode-3.0",
@@ -376,6 +381,11 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Hearth Log/Hearth Log-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"/usr/local/Cellar/wxmac/3.0.0.0/include/wx-3.0",
+				);
 				INFOPLIST_FILE = "Hearth Log/Hearth Log-Info.plist";
 				OTHER_CFLAGS = (
 					"-I/usr/local/Cellar/wxmac/3.0.0.0/lib/wx/include/osx_cocoa-unicode-3.0",
