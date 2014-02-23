@@ -1,9 +1,10 @@
 #!/bin/sh
+# HearthLog Uninstall Script
+# http://justfielding.com/hearthlog/uninstall.sh
+# This file is used to automate the uninstallation of HearthLog.
 #
-#
-#
-#
-
+# Hearthlog can be uninstalled by running this command:
+# curl http://justfielding.com/hearthlog/uninstall.sh | sh
 
 ### Check if HearthLog or any HearthLog components are installed
 
