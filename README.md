@@ -1,1 +1,1 @@
-![logo](http://justfielding.com/HearthLog/img/hearthlog.png)
+![logo](http://justfielding.com/hearthlog/img/hearthlog.png)
